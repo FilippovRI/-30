@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыНоменклатуры" id="0de4e34e-20fd-489c-87eb-9b6230363bef" configVersion="96caf8548c04eaf784cd7662312b7db23166d661"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="ebb35a07-7d2a-400f-899f-825116630fcd" configVersion="de3d0b84eaf1e985371f5337dc8714f1733c3bbb"/>
+		<Metadata name="Catalog.Контрагенты" id="f4231be4-767a-4cac-baf4-c24d59c5f891" configVersion="fd201230211ea5ac877cfcffb5087278cbfd4283"/>
+		<Metadata name="Catalog.Номенклатура" id="a7337988-c64e-41f0-871c-b939936e9122" configVersion="83fd8bcdfdab8b5e48befc9b82af01a042f69d95"/>
+		<Metadata name="Catalog.НоменклатурныеГруппы" id="49209bbd-79b7-49a2-a5ef-91b4e88c357a" configVersion="60cf3cc8e7305c274d1bdcfd644d609c6174badc"/>
+		<Metadata name="Catalog.Организации" id="0d87d98e-17ad-4765-827c-8900bcd36c2b" configVersion="c7d9aaeb43c236da78a57e01f8e0946311c58807"/>
+		<Metadata name="Catalog.Склады" id="44f1f989-4578-4a87-a4a2-394ba9b40974" configVersion="73050227b8f4a8ae522a5445355a38efb93a18bb"/>
+		<Metadata name="ChartOfAccounts.Хозрасчетный" id="613cf2f6-6784-42cc-9f26-413585f3f373" configVersion="9ec427312f01d2a08741baf8cdf8c032c0061bfd"/>
+		<Metadata name="CommonPicture.ВыборОКВЭДАвтосервис" id="0dee4bff-f8f1-46b3-90e0-816040f97496" configVersion="4831fc567ea7af905d8ef0a2bb3c87bfe64d4b26"/>
+		<Metadata name="CommonPicture.ДлительнаяОперация80" id="00f346c0-d359-43fb-86bf-3c4b7960d7ed" configVersion="a660c4b0459b6d47ed59bd51fbaa18905b927cce"/>
+		<Metadata name="CommonPicture.Сформировать" id="8931dc07-c05c-4c67-a96b-2485040b0b6a" configVersion="f69ba555eec0efa509f2803c0bcdea7226adea4c"/>
+		<Metadata name="CommonPicture.Этап1КабинетСотрудника" id="ec0c09ef-05c6-4b98-be5e-83f2e3ffded5" configVersion="93932b286e1dfe862a57f04ee5af7598afae7272"/>
+		<Metadata name="CommonPicture.Этап2КабинетСотрудника" id="31bd50af-03f2-4b05-8956-7fca419915b7" configVersion="22e6914b74f6a0f6703df1e8aea40507b2a212fa"/>
+		<Metadata name="CommonPicture.Этап3КабинетСотрудника" id="002c9ea2-afd5-4e40-ad47-e59c1a7ebe54" configVersion="5bbbeb2d7846fd728bb3839c24fa8686d684f144"/>
+		<Metadata name="CommonPicture.Этап4КабинетСотрудника" id="bdee68a3-1c9b-49f0-b278-f335a64751a8" configVersion="b3ced966418a3c2ebdfd223f5c73feb4599b0c6c"/>
+		<Metadata name="CommonPicture.Этап5КабинетСотрудника" id="e1fccccb-7310-4ca3-b380-97e67acadeb3" configVersion="33cdd5b2591818ebccd30f3a52743602585f70bd"/>
+		<Metadata name="Configuration.РасширениеЗагрузкиАвтоПредприятия" id="adc5ac47-1942-48d9-80a7-01b2c38156b7" configVersion="ce64eb1c4ce62d2d146f05b3bbd66f78222b6aba"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзАвтоПредприятия_в_БП30" id="1f60e271-fcb9-4900-9447-a3376dfc0c72" configVersion="008ea091d68ac0649167414b1e77fbb7f816c8aa"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзАвтоПредприятия_в_БП30.Form.Форма" id="fb85ed3f-9462-40f8-b958-b4f8b6f46bd0" configVersion="b687135ad236036d0dfbd35dc69c1261e7118ed5"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзАвтоПредприятия_в_БП30.Form.Форма.Form" id="fb85ed3f-9462-40f8-b958-b4f8b6f46bd0.0" configVersion="bcf433d293bfdf4ee98bd22eafd328627fff9eef"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзАвтоПредприятия_в_БП30.Help" id="1f60e271-fcb9-4900-9447-a3376dfc0c72.1" configVersion="1372ef4dfc84a5068258c5a073f9935f058d22de"/>
+		<Metadata name="DataProcessor.ЗагрузкаИзАвтоПредприятия_в_БП30.ObjectModule" id="1f60e271-fcb9-4900-9447-a3376dfc0c72.0" configVersion="42f8eb22c0bddeac920d715db2e82cdbc85731b7"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="1e2e8c9d-602b-41ca-b199-4115564cf40a" configVersion="ff99754adbdfe31e4749f8eb8990f4a7f689884c"/>
+		<Metadata name="Document.РеализацияТоваровУслуг" id="d0b3347d-e61d-4eba-98d1-999711d5dad1" configVersion="b1aa74948c6faa063254f914bc415871cc1f5b64"/>
+		<Metadata name="Enum.ОтражениеВУСН" id="fee31540-5046-4972-8769-0f0bae58badf" configVersion="01962ab6fa7eb7e9235b0ed966dcecf9bfc87fb0"/>
+		<Metadata name="Enum.СтавкиНДС" id="d989608d-73c0-4c67-9dd7-143ba74e7b9b" configVersion="0b06a2749be4ec6219c32c063d932a3a54d9a170"/>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо" id="1168bdb0-bb26-4d66-834a-38a9bda2513e" configVersion="b8f9a0b7e72127dffaaac9b79498edd344dcb270"/>
+		<Metadata name="Language.Русский" id="9ce1c66a-0453-4b27-9b5b-fe34e7f60edb" configVersion="65f5ba299c2d35786bac77e1e9efde2bdb614ca7"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="69eaca01-9d0f-4855-b617-7d3646195dad" configVersion="4cba457c16767efe3ae406a40c95c1ad1c6ef845"/>
+		<Metadata name="Subsystem.ЗагрузкаИзАвтоПредприятия" id="240e479c-5b73-4274-9824-570420b6024e" configVersion="90b7a576904314dceb3c0122d1340db8b98dd73c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
